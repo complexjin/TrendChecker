@@ -1,1 +1,8 @@
 # TrendChecker
+import UIKit
+
+
+
+
+
+
